@@ -1,0 +1,6 @@
+receipe name :biriyani 
+incrediants 
+1)rice 3kg
+2)onion 1kg
+3)ghee 500grm
+4)chicken 4kg
